@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864713576657",
+    "firebase_url": "https://myshopapp-c7250.firebaseio.com",
+    "project_id": "myshopapp-c7250",
+    "storage_bucket": "myshopapp-c7250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864713576657:android:550082cd53b02929bf75f0",
+        "android_client_info": {
+          "package_name": "com.vinsoft.my_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864713576657-dbp272p0t3vsslu9e6h9og9frjsi9aa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinsoft.my_shop_app",
+            "certificate_hash": "00b3459bfb3472ac18d6e64309a230fe13f28463"
+          }
+        },
+        {
+          "client_id": "864713576657-vj78lg2qvjbhagva8r3lvnecsanimckt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeC_BlOBL4C4Myunhikot-hFJrpRDgPXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864713576657-vj78lg2qvjbhagva8r3lvnecsanimckt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
